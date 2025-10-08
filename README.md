@@ -13,14 +13,13 @@
 
 ##  Структура проекта
 password-main/
-├── app.py # Основной серверный файл Flask
-├── static/
-│ ├── css/style.css # Стили оформления
-│ └── js/script.js # Логика на стороне клиента
-├── templates/
-│ └── index.html # Главная HTML-страница
-└── .idea/ # Конфигурация среды разработки (PyCharm)
----
+app.py # Основной серверный файл Flask
+static/
+css/style.css # Стили оформления
+js/script.js # Логика на стороне клиента
+templates/
+index.html # Главная HTML-страница
+.idea/ # Конфигурация среды разработки (PyCharm)
 
 ##  Установка и запуск
 
